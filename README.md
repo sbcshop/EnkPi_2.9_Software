@@ -10,7 +10,7 @@
     <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img1.jpg" />
     <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img2.jpg" />
    
-   - Write simple python code and click on green run button to make your script running on PiCoder
+   - Write simple python code and click on green run button to make your script running on EnkPi
      <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img3.jpg" />
     
 
