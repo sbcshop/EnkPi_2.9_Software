@@ -4,18 +4,14 @@
 - Download **Thonny IDE** from [Download link](https://thonny.org/) as per your OS and installed.
 
 - Once done start **Thonny IDE application**,
-  - Connect PiCoder kit with laptop/PC using micro usb cable
+  - Connect EnkPi with laptop/PC using micro usb cable
   
-  - After this go to Run -> Configure interpreter, choose device and suitable com port as shown in below images
-    <img src= "https://github.com/sbcshop/PiCoder-Software/blob/main/images/img1.jpg" />
-    <img src= "https://github.com/sbcshop/PiCoder-Software/blob/main/images/img2.jpg" />
-    <img src= "https://github.com/sbcshop/PiCoder-Software/blob/main/images/img3.jpg" />
-    
-   - There is other option to select device at bottom right side as shown in below figure
-     <img src= "https://github.com/sbcshop/PiCoder-Software/blob/main/images/img4.jpg" />
+  - Select device at bottom right side with suitable com port as shown in below figure
+    <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img1.jpg" />
+    <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img2.jpg" />
    
    - Write simple python code and click on green run button to make your script running on PiCoder
-     <img src= "https://github.com/sbcshop/PiCoder-Software/blob/main/images/img5.jpg" />
+     <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img3.jpg" />
     
 
 Now you are ready to try out your own codes, **_Happy Coding!_**
