@@ -1,5 +1,7 @@
 # EnkPi_2.9_Software
+
 Follow [this](https://github.com/sbcshop/PiCoder-Software/blob/main/README.md#1-how-to-install-boot-firmware-in-picoder-kit)
+
 ## Getting Started with PiCoder  
 - Download **Thonny IDE** from [Download link](https://thonny.org/) as per your OS and installed.
 
