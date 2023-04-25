@@ -37,7 +37,7 @@ In similar way you can add various python code files to Pico. Also to try out sa
 To do this follow same steps as shown in step 3 but **_to save library file don't change name keep default one:_** [EnkPi_2in9.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/EnkPi_2in9.py), [pics.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/pics.py)
 
 ### Example Codes
-   Save your these example file as main.py in pico w as shown in above steps, also add related lib files with default name.
+   Save whatever example code file you want to try as main.py in pico w as shown in above step 3, also add related lib files with default name.
  - [Example 1](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_pattern.py) : This code generates pattern, you can experiment to develop your favourite one
  - [Example 2](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_2in9.py 
  - [Example 4](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_shapes.py) : Play with some shapes like circle, square, etc.
@@ -59,10 +59,6 @@ Now you are ready to try out your own codes, **_Happy Coding!_**
  ![1.14” LCD HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/6_c64376c7-a257-43a3-bb5f-0a9471741a7d.png?v=1624017126&width=200)
  
  * [1.14” LCD HAT](https://shop.sb-components.co.uk/products/1-14-lcd-hat-for-pico?_pos=3&_sid=82fa60545&_ss=r) - Compatible 1.14” LCD HAT for PiCoder 
- 
- ![Motor Driver HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/motordriverforPico.png?v=1619523627&width=200)
- 
- * [Motor Driver HAT](https://shop.sb-components.co.uk/products/pico-motor-driver?_pos=4&_sid=82fa60545&_ss=r) - Compatible 2 Channel Motor Driver HAT for PiCoder
  
  
 ## Product License
