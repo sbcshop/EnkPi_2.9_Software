@@ -49,12 +49,19 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
   * [RP2040 Datasheet](https://github.com/sbcshop/HackyPi-Hardware/blob/main/Documents/rp2040-datasheet.pdf)
 
 
-## Related HAT Products
- ![EnkPi4_2](https://cdn.shopify.com/s/files/1/1217/2104/products/3vPicoRelayBoard.png?v=1617884866&width=200)
+## Related Products
+   ![EnkPi4_2]() 
+   * [EnkPi 4.2"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 4.2" E-paper display size
  
- * [EnkPi 4.2"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 4.2" E-paper display size
+   ![EnkPi5_83]()
+   * [EnkPi 5.83"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297466963) - EnkPi with 5.83" E-paper display size
+
+   ![EnkPi7_5]()
+   * [EnkPi 7.5"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 7.5" E-paper display size
  
- 
+   ![Universal_E-paper_HAT]()
+   * [Universal E-paper HAT]() - EnkPi with 5.83" E-paper display size
+
  
 ## Product License
 
