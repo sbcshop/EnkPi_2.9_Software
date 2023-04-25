@@ -30,7 +30,7 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr3.jpg" />
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr4.jpg" />
    
-   In similar way you can add various python code files to Pico. Also to try out sample codes given here in [examples folder](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/examples) you need to save library files from [lib (https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/lib) folder into Pico W of EnkPi.
+   In similar way you can add various python code files to Pico. Also to try out sample codes given here in [examples folder](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/examples) you need to save library files from [lib] (https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/lib) folder into Pico W of EnkPi.
    
    To do this follow same steps as shown in step 3 but **_to save library file don't change name keep default one:_** [EnkPi_2in9.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/EnkPi_2in9.py), [pics.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/pics.py)
 
