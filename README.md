@@ -24,7 +24,7 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
      Now that we've reached this point, you're executing your script through Thonny IDE, so if you unplug Pico, it will stop running. To run your script without using an IDE, simply power up EnkPi and it should run your script, go to step 3. Once you have transferred your code to the EnkPi board, to see your script running, just plug in power either way using micro USB or Type C, both will work.
     
 ### 3. How to move your script on Pico W of EnkPi
-   - Click on File -> Save as Copy -> select Raspberry Pi Pico , Then save file as main.py
+   - Click on File -> Save Copy -> select Raspberry Pi Pico , Then save file as main.py
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr1.jpg" />
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr2.jpg" />
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr3.jpg" />
@@ -50,13 +50,10 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
 
 
 ## Related HAT Products
- ![3vPicoRelayBoard](https://cdn.shopify.com/s/files/1/1217/2104/products/3vPicoRelayBoard.png?v=1617884866&width=200)
+ ![EnkPi4_2](https://cdn.shopify.com/s/files/1/1217/2104/products/3vPicoRelayBoard.png?v=1617884866&width=200)
  
- * [2 Channel Relay Board](https://shop.sb-components.co.uk/products/pico-3v-relay-hat?_pos=1&_sid=82fa60545&_ss=r) - Compatible Relay Hat for PiCoder 
+ * [EnkPi 4.2"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 4.2" E-paper display size
  
- ![1.14” LCD HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/6_c64376c7-a257-43a3-bb5f-0a9471741a7d.png?v=1624017126&width=200)
- 
- * [1.14” LCD HAT](https://shop.sb-components.co.uk/products/1-14-lcd-hat-for-pico?_pos=3&_sid=82fa60545&_ss=r) - Compatible 1.14” LCD HAT for PiCoder 
  
  
 ## Product License
