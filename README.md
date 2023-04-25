@@ -37,7 +37,7 @@ In similar way you can add various python code files to Pico. Also to try out sa
 To do this follow same steps as shown in step 3 but **_to save library file don't change name keep default one:_** [EnkPi_2in9.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/EnkPi_2in9.py), [pics.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/pics.py)
 
 ### Example Codes
-   Save your main file as main.py in pico w as shown in above steps, also add related lib files 
+   Save your these example file as main.py in pico w as shown in above steps, also add related lib files with default name.
  - [Example 1](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_pattern.py) : This code generates pattern, you can experiment to develop your favourite one
  - [Example 2](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_2in9.py 
  - [Example 4](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_shapes.py) : Play with some shapes like circle, square, etc.
@@ -45,8 +45,6 @@ To do this follow same steps as shown in step 3 but **_to save library file don'
  and [More...](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/examples)
 
 Now you are ready to try out your own codes, **_Happy Coding!_**
-
-## Related Projects
 
 ## Documentation
   * [MicroPython getting started for RPI](https://docs.micropython.org/en/latest/rp2/quickref.html)
@@ -66,13 +64,6 @@ Now you are ready to try out your own codes, **_Happy Coding!_**
  
  * [Motor Driver HAT](https://shop.sb-components.co.uk/products/pico-motor-driver?_pos=4&_sid=82fa60545&_ss=r) - Compatible 2 Channel Motor Driver HAT for PiCoder
  
- ![Ethernet_HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/NetPi_4.png?v=1675947155&width=200)
- 
- * [Ethernet HAT](https://shop.sb-components.co.uk/products/netpi-ethernet-hat-for-raspberry-pi-pico?_pos=2&_sid=82fa60545&_ss=r) - Compatible Ethernet HAT for PiCoder
-
- ![Barcode_Reader_HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/04.png?v=1669181209&width=200)
- 
- * [Barcode Reader](https://shop.sb-components.co.uk/products/barcode-hat?_pos=5&_sid=82fa60545&_ss=r) - Compatible Barcode Reader HAT for PiCoder
  
 ## Product License
 
