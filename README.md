@@ -1,10 +1,11 @@
 # EnkPi_2.9_Software
-<img src = "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/enkPi_variants.jpg" />
+
+### EnkPi is a series of 4 ePaper displays mounted on PCBs to provide sturdiness and comfort to the users.
+Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Support with up to 170 degrees Wide Viewing Angle. In this github repo will see setup and getting started guide for EnkPi 2.9" series.
 
 <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/EnkPi_2_9.jpg" />
 
-### Pinout and Specs of EnkPi 2.9"
-<img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/pinout_2_9.png" width= "500" height = "500"/>
+<img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/pinout_2_9.png" width= "400" height = "400"/>
 
 ## Getting Started with EnkPi
 ### 1. Step to install boot Firmware
