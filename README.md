@@ -1,8 +1,13 @@
 # EnkPi_2.9_Software
 
-Follow [this](https://github.com/sbcshop/PiCoder-Software/blob/main/README.md#1-how-to-install-boot-firmware-in-picoder-kit)
 
-## Getting Started with PiCoder  
+
+## Getting Started with EnkPi
+### 1. Step to install boot Firmware
+   - Every EnkPi will be provided with boot firmware already installed, so you can directly go to step 2
+   - If anycase you need to install firmware for you board then you can follow tutorial [here](https://github.com/sbcshop/PiCoder-Software/blob/main/README.md#1-how-to-install-boot-firmware-in-picoder-kit)
+
+### 2. Working Test Pico W on EnkPi
 - Download **Thonny IDE** from [Download link](https://thonny.org/) as per your OS and installed.
 
 - Once done start **Thonny IDE application**,
