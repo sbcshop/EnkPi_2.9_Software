@@ -37,10 +37,13 @@ In similar way you can add various python code files to Pico. Also to try out sa
 To do this follow same steps as shown in step 3 but **_to save library file don't change name keep default one:_** [EnkPi_2in9.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/EnkPi_2in9.py), [pics.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/pics.py)
 
 ### Example Codes
- - Example 1 : 
- - Example 2 : 
- - Example 3 :
+   Save your main file as main.py in pico w as shown in above steps, also add related lib files 
+ - [Example 1](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_pattern.py) : This code generates pattern, you can experiment to develop your favourite one
+ - [Example 2](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_2in9.py 
+ - [Example 4](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_shapes.py) : Play with some shapes like circle, square, etc.
+ - [Example 3](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_images.py) : To display images on EnkPi, this code need library EnkPi_2in9.py & pics.py
  and [More...](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/examples)
+
 Now you are ready to try out your own codes, **_Happy Coding!_**
 
 ## Related Projects
