@@ -27,8 +27,17 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
     Now that we've reached this point, you're executing your script through Thonny IDE, so if you unplug Pico, it will stop running. To run your script without using an IDE, simply power up EnkPi and it should run your script, go to step 3.
     
 ### 3. How to shift your script on Pico W of EnkPi
+  - Click on File -> Save as Copy -> select Raspberry Pi Pico , Then save file as main.py
+   <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr1.jpg" />
+   <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr2.jpg" />
+   <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr3.jpg" />
+   <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr4.jpg" />
+   
+In similar way you can add various micropython files to Pico. Also to try out sample codes given here in example folder you need to save library files from [lib](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/lib) folder into Pico W of EnkPi.
+To do this follow same steps as shown in step 3 but **to save library file don't change name keep default one -> ** [EnkPi_2in9.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/EnkPi_2in9.py), [pics.py](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/lib/pics.py)
 
-Various sample codes provided in examples folder which you can try out.
+### Example Codes
+ - 
 Now you are ready to try out your own codes, **_Happy Coding!_**
 
 ## Related Projects
