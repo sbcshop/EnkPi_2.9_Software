@@ -4,13 +4,13 @@
 - Download **Thonny IDE** from [Download link](https://thonny.org/) as per your OS and installed.
 
 - Once done start **Thonny IDE application**,
-  - Connect EnkPi with laptop/PC using micro usb cable
+  - Connect EnkPi with a laptop/PC using a micro USB cable and the micro USB port on Pico W present on EnkPi.
   
-  - Select device at bottom right side with suitable com port as shown in below figure
+  - Select device at the bottom right with a suitable COM port, as shown in the below figure. You might get a different COM port.
     <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img1.jpg" />
     <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img2.jpg" />
    
-   - Write simple python code and click on green run button to make your script running on EnkPi
+   - Write simple Python code and click on the green run button to make your script run on EnkPi.
      <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img3.jpg" />
     
 
