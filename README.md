@@ -21,9 +21,9 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
    - Write simple onboard blink Python code or [Download Led blink code](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/onboard_ledBlink.py), then click on the green run button to make your script run on EnkPi. 
       <img src= "https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/img3.jpg" />
      
-     Now that we've reached this point, you're executing your script through Thonny IDE, so if you unplug Pico, it will stop running. To run your script without using an IDE, simply power up EnkPi and it should run your script, go to step 3.
+     Now that we've reached this point, you're executing your script through Thonny IDE, so if you unplug Pico, it will stop running. To run your script without using an IDE, simply power up EnkPi and it should run your script, go to step 3. Once you have transferred your code to the EnkPi board, to see your script running, just plug in power either way using micro USB or Type C, both will work.
     
-### 3. How to shift your script on Pico W of EnkPi
+### 3. How to move your script on Pico W of EnkPi
    - Click on File -> Save as Copy -> select Raspberry Pi Pico , Then save file as main.py
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr1.jpg" />
       <img src="https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/images/scr2.jpg" />
