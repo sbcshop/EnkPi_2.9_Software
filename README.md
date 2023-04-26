@@ -49,13 +49,13 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
 
 
 ## Related Products
-   ![EnkPi4_2]() 
+   <img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/EnkPi_7_5.jpg" width = "400" height = "200" />
    * [EnkPi 4.2"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 4.2" E-paper display size
  
-   ![EnkPi5_83]()
+   <img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/EnkPi_7_5.jpg" width = "400" height = "200" />
    * [EnkPi 5.83"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297466963) - EnkPi with 5.83" E-paper display size
 
-   ![EnkPi7_5]()
+   <img src= "https://github.com/sbcshop/EnkPi_7.5_Software/blob/main/images/EnkPi_7_5.jpg" width = "400" height = "200" />
    * [EnkPi 7.5"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 7.5" E-paper display size
  
    ![Universal_E-paper_HAT]()
