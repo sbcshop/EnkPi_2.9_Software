@@ -38,7 +38,7 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
    - [Example 1](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_pattern.py) : This code generates pattern, you can experiment to develop your favourite one
    - [Example 2](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_text.py) : Try this code to display text, make sure to install library EnkPi_2in9.py
    - [Example 3](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_shapes.py) : Play with some shapes like circle, square, etc.
-   - [Example 4](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_images.py) : To display images on EnkPi, this code need library EnkPi_2in9.py & pics.py
+   - [Example 4](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/examples/display_images.py) : To display images on EnkPi, this code need library EnkPi_2in9.py & pics.py. To follow this example you have to go through [Step by Step Guide to build byte array from Image](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/Downloads/Step%20by%20Step%20Guide%20to%20create%20byte%20array%20from%20image.pdf)
    - and [More...](https://github.com/sbcshop/EnkPi_2.9_Software/tree/main/examples)
    
    Now you are ready to try out your own codes, **_Happy Coding!_**
@@ -46,6 +46,7 @@ Powered with **Raspberry Pi Pico W**, these EnkPi boards have Partial Refresh Su
 ## Documentation
   * [MicroPython getting started for RPI](https://docs.micropython.org/en/latest/rp2/quickref.html)
   * [RP2040 Datasheet](https://github.com/sbcshop/HackyPi-Hardware/blob/main/Documents/rp2040-datasheet.pdf)
+  * [Step by Step Guide to build byte array from Image](https://github.com/sbcshop/EnkPi_2.9_Software/blob/main/Downloads/Step%20by%20Step%20Guide%20to%20create%20byte%20array%20from%20image.pdf)
 
 
 ## Related Products
